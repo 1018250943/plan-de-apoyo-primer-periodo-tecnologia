@@ -1,0 +1,220 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 40px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("OIP.jfif");
+    
+   
+
+}
+
+.img11{
+    height: 353px;
+    width: 580px;
+    background-image: url("img11.PNG");
+    background-repeat: no-repeat;
+   
+}
+.img12{
+
+    height: 353px;
+    width: 580px;
+    background-image: url("Captura1.PNG");
+    background-repeat: no-repeat;
+   
+
+
+
+}
+.i04{
+
+    height: 353px;
+    width: 580px;
+    background-image: url("cap1.jfif");
+    background-repeat: no-repeat;
+   
+
+
+}
+.i09{
+
+    height: 153px;
+    width: 580px;
+    background-image: url("cap8.jfif");
+    background-repeat: no-repeat;
+   
+
+
+}
+.i01{
+
+    height: 353px;
+    width: 580px;
+    background-image: url("cap2.jfif");
+    background-repeat: no-repeat;
+   
+
+
+}
+.logo{
+
+    height: 803px;
+    width: 800px;
+    background-image: url("logo.jfif");
+    background-repeat: no-repeat;
+   
+
+}
+
+.i02{
+
+    height: 233px;
+    width: 580px;
+    background-image: url("cap3.jfif");
+    background-repeat: no-repeat;
+   
+
+
+}
+.i03{
+
+    height: 353px;
+    width: 580px;
+    background-image: url("cap7.jfif");
+    background-repeat: no-repeat;
+   
+
+
+}
+.i05{
+
+    height: 553px;
+    width: 680px;
+    background-image: url("cap9.jfif");
+    background-repeat: no-repeat;
+   
+
+
+}
+
+.i06{
+
+    height: 353px;
+    width: 580px;
+    background-image: url("cap4.jfif");
+    background-repeat: no-repeat;
+   
+
+
+}
+.i07{
+
+    height: 353px;
+    width: 580px;
+    background-image: url("cap5.jfif");
+    background-repeat: no-repeat;
+   
+
+
+}
+.i08{
+
+    height: 453px;
+    width: 680px;
+    background-image: url("cap6.jfif");
+    background-repeat: no-repeat;
+   
+
+
+}
+
+
+
+
+
+.img13{
+
+    height: 353px;
+    width: 580px;
+    background-image: url("Captura2.PNG");
+    background-repeat: no-repeat;
+
+}
+
+
+    
+
+.titulo{
+font-size: 60px;
+color: rgb(57, 28, 223);
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.ft1{
+    height: 1653px;
+    width: 1000px;
+    background-image: url("ft1.jfif");
+    background-repeat: no-repeat;
+
+
+
+}
+.ft2{
+
+    height: 1063px;
+    width: 1060px;
+    background-image: url("ft2.jfif");
+    background-repeat: no-repeat;
+
+
+
+}
+
+.vid{
+
+    font-size: 60px;
+    color: rgb(121, 190, 63);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.titaudio{
+
+    font-size: 60px;
+    color: rgb(221, 23, 23);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+}
+
+
+.img2{
+    height: 500px;
+    width: 500px;
+    background-image: url("medellin.jpeg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.imgtec3{
+    height: 150px;
+    width: 200px;
+    background-image: url("descarga.jpeg");
+    background-repeat: no-repeat;
+    float: right;
+
+}
