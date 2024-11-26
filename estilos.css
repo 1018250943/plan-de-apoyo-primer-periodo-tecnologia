@@ -354,3 +354,47 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 
 }
+.vestidodemis15años{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("vestidodemis15años.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+
+
+}
+.corona{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("corona");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+
+
+}
+.minni{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("minni");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+}
+
+
+
+
+
+
+
