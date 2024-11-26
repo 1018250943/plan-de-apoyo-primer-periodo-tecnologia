@@ -19,6 +19,21 @@ body{
 
 }
 
+
+
+
+.lunados{
+
+    height: 353px;
+    width: 580px;
+    background-image: url("lunados.jpg");
+    background-repeat: no-repeat;
+   
+
+
+
+}
+
 .img11{
     height: 353px;
     width: 580px;
@@ -46,7 +61,27 @@ body{
    
 
 
+    
+
+
 }
+.karolg{
+
+
+    height: 1353px;
+    width: 800px;
+    background-image: url("karolg.webp");
+    background-repeat: no-repeat;
+   
+
+
+
+
+}
+
+
+
+
 .i09{
 
     height: 153px;
@@ -211,10 +246,111 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 }
 .imgtec3{
-    height: 150px;
-    width: 200px;
-    background-image: url("descarga.jpeg");
+    height: 500px;
+    width: 500px;
+    background-image: url("medellin.jpeg");
     background-repeat: no-repeat;
-    float: right;
+    float: left;  
+
+
+
+}
+.gatacarey{
+    height: 500px;
+    width: 500px;
+    background-image: url("gatacarey.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+
+
+
+
+
+}
+.yeimy{
+    height: 500px;
+    width: 500px;
+    background-image: url("yeimy.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+
+
+}
+.leonsito{
+    height: 500px;
+    width: 500px;
+    background-image: url("leonsito.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+
+}
+.leon{
+    height: 500px;
+    width: 500px;
+    background-image: url("leon.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+
+}
+.hellostich{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("hellostich.png");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+
+
+
+    
+}
+.corazon{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("corazon.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+
+
+}
+.mama{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("mama.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
+.amor{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("amor.jpg");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
 
 }
