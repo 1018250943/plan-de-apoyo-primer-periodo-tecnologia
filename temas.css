@@ -1,8 +1,23 @@
-.contenedor{
+.fondo.jpg{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(204, 50, 135);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+    
+
+
+
+
+
+
+
 
 width: 100%;
 height: 1000px;
-background-color: darkorchid;
+background-color: rgb(204, 50, 135);
 display: flex;
 flex-direction: column;
 text-align: center;
@@ -14,7 +29,7 @@ text-align: center;
 
 width: 100%;
 height: 150px;
-background-color: cyan;
+background-color: rgb(174, 0, 255);
 font-size: 100px;
 font-family: cursive;
 
@@ -120,10 +135,13 @@ font-family: cursive;
 .texto3{
 
     width: 100%;
-    height: 425px;
-    background-color: rgb(15, 187, 87);
-    font-size: 50px;
-    font-family: fantasy;
+    height: 1000px;
+    background-color: rgb(204, 50, 135);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+    
 
 
 
@@ -131,3 +149,25 @@ font-family: cursive;
 
 
 }
+.fondo.fondo.jpg{
+
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(50, 122, 204);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+

@@ -422,22 +422,30 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
     float: left;
 
-
-
-}
-.excel{
-
-        height: 500px;
-        width: 500px;
-        background-image: url("excel.png");
-        background-repeat: no-repeat;
-        float: left;
     
-        
+}
+.hellostitchdos{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("hellostitchdos");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
 
 
 }
+.hellokitty{
+    height: 500px;
+    width: 500px;
+    background-image: url("hellokitty.jpg");
+    background-repeat: no-repeat;
+    float: left;
 
 
+
+}
 
 
