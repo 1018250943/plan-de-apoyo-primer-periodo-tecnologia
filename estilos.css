@@ -391,9 +391,52 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 
 }
+.excel{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("excel.png");
+    background-repeat: no-repeat;
+    float: left;
 
 
 
+
+}
+.exceldos{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("exceldos.webp");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+}
+.excel{
+
+    height: 500px;
+    width: 500px;
+    background-image: url("excel.png");
+    background-repeat: no-repeat;
+    float: left;
+
+
+
+}
+.excel{
+
+        height: 500px;
+        width: 500px;
+        background-image: url("excel.png");
+        background-repeat: no-repeat;
+        float: left;
+    
+        
+
+
+}
 
 
 
